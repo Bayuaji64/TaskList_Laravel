@@ -1,1 +1,3 @@
 # TaskList_Laravel
+
+PROJECT TASK LIST TO LEARN PHP + LARAVEL
